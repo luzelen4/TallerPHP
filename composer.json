@@ -1,0 +1,22 @@
+{
+    "name": "luz/tallerphp",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tallerphp",
+            "email": "luz.3801810370@ucaldas.edu.co"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "monolog/monolog": "^3.7",
+        "phpmailer/phpmailer": "^6.9",
+        "dompdf/dompdf": "^3.0",
+        "mpdf/mpdf": "^6.1"
+        
+    }
+}
